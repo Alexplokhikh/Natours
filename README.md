@@ -5,7 +5,7 @@ Mockup tour booking site front-end. built using SASS.
 
 ---
 ## Live Version
-👉 : https://natours-xbsh.onrender.com/
+👉 : https://alexplokhikh.github.io/Natours/
 
 # Key Specialties
 - Modern CSS
@@ -41,3 +41,6 @@ Mockup tour booking site front-end. built using SASS.
 
 ## background video:
 ![Анимация](https://github.com/user-attachments/assets/5b13817e-a42b-48ba-a438-d0efbb4a3948)
+
+---
+built as part of a Udemy course. original design by Johnas Scmedtmann. was implemented by me for practice.
